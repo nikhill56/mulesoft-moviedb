@@ -7,7 +7,7 @@
  3. Unzip the folder and open it in your favourite code editor
  4. Run the python code
 
-# Structure of the table - (id INTEGER PRIMARY KEY,movie_name TEXT,lead_actor TEXT,lead_actress TEXT,release_year TEXT,director_name TEXT)
+ Structure of the table - (id INTEGER PRIMARY KEY,movie_name TEXT,lead_actor TEXT,lead_actress TEXT,release_year TEXT,director_name TEXT)
     
 # Queries used here
  1 - select all the movies starring Leonardo Di Caprio
